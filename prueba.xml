@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preguntes>
+ <pregunta tipus="text">
+  <text>Cuál es el numero secret?</text>
+  <resposta>3</resposta>
+ </pregunta>
+</preguntes>
